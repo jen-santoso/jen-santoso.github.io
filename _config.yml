@@ -28,7 +28,7 @@ twitter_username: jensan_1
 github_username:  jen-santoso
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: academic
 plugins:
   - jekyll-feed
 
