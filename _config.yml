@@ -22,7 +22,7 @@ title: Jennifer Santoso
 email: jennifer.santoso.id@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The website profile and digital CV/Resume for Jennifer Santoso
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jensan-cv" # the subpath of your site, e.g. /blog
 url: "http://jensan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jensan_1
 github_username:  jen-santoso
