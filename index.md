@@ -1,3 +1,8 @@
+---
+layout: home
+title: Jennifer Santoso
+permalink: /
+---
 # Jennifer Santoso
 
 - University of Tsukuba, Graduate School of Science and Technology, Degree Programs in SIE, Ph.D. candidate in Computer Science
