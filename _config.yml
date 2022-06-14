@@ -28,7 +28,7 @@ twitter_username: jensan_1
 github_username:  jen-santoso
 
 # Build settings
-theme: academic
+remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
 
