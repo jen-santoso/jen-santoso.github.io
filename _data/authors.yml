@@ -1,0 +1,14 @@
+Jennifer Santoso:
+  name        : "Jennifer Santoso"
+  bio         : "Teaching computers to understand emotions"
+  avatar      : "/assets/images/jensan.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:j.santoso@mmlab.cs.tsukuba.ac.jp"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jensan_1"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jen-santoso"
