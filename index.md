@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 - University of Tsukuba, Graduate School of Science and Technology, Degree Programs in SIE, Ph.D. candidate in Computer Science
